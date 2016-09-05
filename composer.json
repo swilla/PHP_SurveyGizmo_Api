@@ -1,0 +1,9 @@
+{
+    "name": "SurveyGizmoOfficial/PHP_SurveyGizmo_Api",
+    "description": "Official PHP library for SurveyGizmo API",
+    "autoload": {
+        "files": [
+            "SurveyGizmoAutoLoader.php"
+        ]
+    }
+}
